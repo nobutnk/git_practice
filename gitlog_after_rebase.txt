@@ -1,0 +1,80 @@
+commit a6bb830f0ec9eef0ba0b324087c78b0e2cdad15d
+Merge: 1b25ecb f7f3c6b
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:47:08 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:47:08 2018 +0900
+
+    fixed conflice
+
+commit 1b25ecb50fef18986c528c54fd6264777ef8f033
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:41:50 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:46:01 2018 +0900
+
+    log 1st
+
+commit 013b4a52f8f14acf03a236e49363dbe50618b090
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:45:42 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:45:42 2018 +0900
+
+    fixed 2nd and 4th conflice
+
+commit 13dbd5b3eb7db65e9fba35e25d90fc4f55772b32
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:39:52 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:44:32 2018 +0900
+
+    3rd commit
+
+commit 85cf58739090e14970ca528ed13327ac3149fc23
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:43:12 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:44:14 2018 +0900
+
+    2nd commit rebase
+
+commit f7f3c6b4c7fc5400765d0d279da810f186bb0e50
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:41:50 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:41:50 2018 +0900
+
+    log 1st
+
+commit fd462fea2a5c239bbce9d03efddf8a5731737610
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:40:51 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:40:51 2018 +0900
+
+    4th commit
+
+commit e3375d8b4d280b928dcc88cb8f943d022c92b938
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:39:52 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:39:52 2018 +0900
+
+    3rd commit
+
+commit 9f6105b47d1b39b8ce9d4c1afe2bb62ecce20a5f
+Author:     nobutnk <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:38:52 2018 +0900
+Commit:     nobutnk <nobutnk@gmail.com>
+CommitDate: Sat Sep 22 13:38:52 2018 +0900
+
+    2nd commit
+
+commit 23ac8a0e5cdf8a17b4b0060952673f1bc97f7905
+Author:     Nobuyuki Tanaka <nobutnk@gmail.com>
+AuthorDate: Sat Sep 22 13:36:57 2018 +0900
+Commit:     GitHub <noreply@github.com>
+CommitDate: Sat Sep 22 13:36:57 2018 +0900
+
+    Initial commit
