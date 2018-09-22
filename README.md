@@ -3,5 +3,5 @@ Git command Practice
 
 ## List
 * git log
-* git rebase
+* git rebase `-i HEAD~4`
 
